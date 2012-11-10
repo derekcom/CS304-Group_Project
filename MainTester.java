@@ -8,8 +8,7 @@ public class MainTester
         SetUpSemester S = new SetUpSemester();
         S.SemesterSetUp();
 		  System.out.println();
-        System.out.println("Semester Name: " + S.getSemesterName());
-	  
+       	  
         }
 
 }
