@@ -19,7 +19,7 @@ public class Student
 
 	private String firstName, lastName;
 	private int studentNumber;
-	
+	        
 	//____Constructor________________________________________________________________________
 	//This will set the various arrays(tests, assignments, exams) to the appropriate sizes
 	public Student(int testQuantity, int assignmentQuantity, int examQuantity)

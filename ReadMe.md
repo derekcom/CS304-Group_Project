@@ -13,3 +13,21 @@ through a simple command-based user interface.
 
 This class will create a Student object. This object will be used to store the various grades
 for a student. It will have a seperate array for tests, assignments and exams.
+
+
+
+-------------------------------------------ver 3----------------------------------------------
+here hugo has added...
+
+SetUpSemester class
+MainTester class
+
+
+-------------------------------------------ver 4----------------------------------------------
+Hugo has edited SetUpSemester class
+
+
+
+-------------------------------------------ver 5-----------------------------------------------
+derek has edited SetUpSemester Class
+derek has added to SetUpSemester so that it can now create a Student array
